@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Rammetto One', cursive;
+  background: url('./wallpaper/Wall.jpg');
+  width: auto;
+  height: auto;
+}
+h1,button,h4{
+  color:white;
+  font-family: 'Indie Flower', cursive;
+}
+p{
+  font-family: 'Coiny', cursive;
+}
+img{
+  width: 300px;
+  height: 300px;
+}
